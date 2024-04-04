@@ -1,0 +1,8 @@
+{
+  "locale": "fr-FR",
+  "translations": {
+    "title": "ceci est un exemple de titre",
+    "introHeader": "Bonjour, {$INTERPOLATION}",
+    "greeting": "Toutes nos félicitations! Votre application est en cours d'exécution."
+  }
+}
